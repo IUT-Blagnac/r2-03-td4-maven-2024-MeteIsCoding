@@ -43,7 +43,7 @@ Les illustrations utilisent VS Code, mais peu importe que vous utilisiez un autr
 mkdir $HOME/Documents/tp4_qualite
 ----
 
-2. Ensuite y accedez. (Je ne sais pas pourquoi ça m'affiche 1 au lieu de 2)
+2. Ensuite y accedez. (Je ne sais pas pourquoi on a 1 au lieu de 2)
 
 ----
 cd $HOME/Documents/tp4-qualite
