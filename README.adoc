@@ -40,13 +40,13 @@ Les illustrations utilisent VS Code, mais peu importe que vous utilisiez un autr
 1. Tout d'abord créez un repertoire local pour votre projet.
 
 ----
-mkdir $HOME/Documents/tp_qualite
+mkdir $HOME/Documents/tp4_qualite
 ----
 
 2. Ensuite y accedez. (Je ne sais pas pourquoi ça m'affiche 1 au lieu de 2)
 
 ----
-cd $HOME/Documents/tp_qualite
+cd $HOME/Documents/tp4-qualite
 ----
 
 3. Il faut ensuite faire un clone du repo concerné dans votre machine.
